@@ -16,7 +16,7 @@ In the BackEnd folder & and Client folder run:
 
 ## Source code
 
-* Git Flow can be assed here: 
+* Git Flow can be assessed here: 
 * https://github.com/Yariandres/BackEnd-ordering-system/commits/master
 * https://github.com/Yariandres/FrondEnd-ordering-system/commits/master
 
