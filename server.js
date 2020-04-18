@@ -15,7 +15,6 @@ app.use(express.json({ extended: false }));
 app.use('/api/products', require('./routes/api/products'));
 
 // SERVE static assets in production
-
 if(process.env.NODE_ENV === 'production') {
   // SET static folder
   app.use(express.static('client/build'));
